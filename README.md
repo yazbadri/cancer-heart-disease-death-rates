@@ -1,5 +1,7 @@
 This project was a collaborative effort by Cindy Davis, Kennedy Bagnol, and Yasmin Badri.
+
 You can find Cindy Davis's github repo here: https://github.com/cynthiadavis
+
 You can find Kennedy Bagnol's github repo here: https://github.com/knedbagnol
 
 ## Problem Statement
