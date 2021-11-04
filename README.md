@@ -1,3 +1,7 @@
+This project was a collaborative effort by Cindy Davis, Kennedy Bagnol, and Yasmin Badri.
+You can find Cindy Davis's github repo here: https://github.com/cynthiadavis
+You can find Kennedy Bagnol's github repo here: https://github.com/knedbagnol
+
 ## Problem Statement
 How accurately can cancer and heart disease death rates by state be predicted? What are the top drivers given these features: median household income, access to stores/food, access to fitness centers, government assistance, food insecurity, taxes, obesity, diabetes, number/quantity of local farmers, poverty rates, air quality, water quality (lead/copper rates), smoking, industrial energy consumption, happiness, sunshine and temperature)?  The death rates for cancer and heart disease in the United States are shown below.
 
